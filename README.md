@@ -1,19 +1,15 @@
 <h1 align="center">👋 Hola! Soy Cris</h1>
 <h3 align="center">Desarrolladora Web</h3>
 
-- He estudiado técnico superior en Desarrollo de Aplicaciones Web y me encanta ser autodidactica y aprender tecnologías nuevas. [*](*)
+- 💻 He estudiado técnico superior en Desarrollo de Aplicaciones Web y me encanta ser autodidactica y aprender tecnologías nuevas.
 
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías como **Angular, React y Vue.js**
 
-- 👯 Estoy buscando nuevas oportunidades para desarrollarme y mejorar como profesional. [*](*)
+- 👯 Estoy buscando nuevas oportunidades para desarrollarme y mejorar como profesional.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cristina-rodriguez-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristina-rodriguez-dev" height="30" width="40" /></a>
-</p>
-
-<p align="left">
-<a href="https://github.com/crisrdguez" target="blank"><img align="center" src="C:\Users\Cris\Desktop\github.svg" alt="crisrdguez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
